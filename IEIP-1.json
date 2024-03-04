@@ -5486,10 +5486,6 @@
     { "address": "0xb39f1c7b1149354e0cd7ca7caf841f128e49db15", "score":	"1"},
     { "address": "0xcb151fd72dbbdd986bf3912a3674142bcb29ff7d", "score":	"1"},
     { "address": "0x732a53d45958a02dec402a89c0fd7bb87f5baaf5", "score":	"1"},
-    { "address": "0xc301aeceb49cddc0959278a2fbc75f2a1b528262", "score":	"1"},
-    { "address": "0xb1a1c1e8a525eb49c5e871f55516da41c8943de2", "score":	"1"},
-    { "address": "0x6d7b7a2e9150e19f64fb3a0e6347a6a708c42b21", "score":	"1"},
-    { "address": "0x73402b53c6c0f12e38579e5cdc697d834010f400", "score":	"1"},
-    { "address": "0x962ca3221dfa40d5bb8f3904ab117cf6ad8d6493", "score":	"1"}
+    { 40d5bb8f3904ab117cf6ad8d6493", "score":	"1"}
   ]
 }
